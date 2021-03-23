@@ -7,6 +7,8 @@ I have some old website with Codeigniter made back in 2010, and updated the core
 
 So after I successfully made these three working together, I created this tutorial repo maybe someone need the same to solve.
 
+<img width="1152" alt="Screenshot 2021-03-23 at 14 38 05" src="https://user-images.githubusercontent.com/691695/112165547-23437480-8bef-11eb-9f34-ec40b5806005.png">
+
 ### How-to
 
 1. clone the repo
