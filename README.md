@@ -65,6 +65,12 @@ if ( ! $this->auth->is_logged_in()) {
 
 - set CKEditor path and settings
 
+### Versions
+
+Codeigniter 3.1.11  
+elFinder 2.1.57   
+CKEditor 4.16
+
 ### Thanks
 
 Thanks for the tutorials in the elFinder github repo, for the basics, and for [barryvdh/laravel-elfinder](https://github.com/barryvdh/laravel-elfinder) for the idea of creating my own `elfinder.php` for Codeigniter.
